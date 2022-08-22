@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:backgroundTint="@color/purple_200"
+        android:text="@string/entity_1"
+        android:layout_height="80dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:backgroundTint="@color/red"
+        android:text="@string/entity_2"
+        android:layout_height="80dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:backgroundTint="@color/teal_700"
+        android:text="@string/entity_3"
+        android:layout_height="80dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:backgroundTint="@color/purple_500"
+        android:text="@string/entity_4"
+        android:layout_height="80dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:backgroundTint="@color/ic_launcher_background"
+        android:text="@string/entity_5"
+        android:layout_height="80dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:backgroundTint="@color/purple_700"
+        android:textSize="30sp"
+        android:text="@string/entity_6"
+        android:layout_height="80dp" />
+</LinearLayout>

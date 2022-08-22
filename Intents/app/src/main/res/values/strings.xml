@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fragments!</string>
+    <string name="welcome_text">Добро пожаловать</string>
+    <string name="inputPassword">Введите пароль</string>
+    <string name="inputLogin">Введите логин</string>
+    <string name="enterLicense">Принимаю лицензионное соглашение</string>
+    <string name="entry">Войти</string>
+    <string name="anr">ANR</string>
+    <string name="warning">Неправильный логин или пароль</string>
+    <string name="call">CALL</string>
+    <string name="input_phone_number">Input phone number</string>
+    <string name="entity_1">Entity 1</string>
+    <string name="entity_2">Entity 2</string>
+    <string name="entity_3">Entity 3</string>
+    <string name="entity_4">Entity 4</string>
+    <string name="entity_5">Entity 5</string>
+    <string name="entity_6">Entity 6</string>
+</resources>
